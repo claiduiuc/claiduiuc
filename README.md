@@ -3,7 +3,7 @@
 - 📫 How to reach us:
   - Email: claiduiuc@gmail.com
   - Discord: https://discord.gg/xdT9Bgm
-  - Website: [claid.club](https://claid.club/)
+  - Website: [claid.club](https://claid.club/) (currently not available)
 - For more information, visit our website!
 
 <!---
